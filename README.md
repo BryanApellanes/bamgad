@@ -1,0 +1,2 @@
+# bamgad
+Github artifact downloader
